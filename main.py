@@ -2,7 +2,7 @@ import schedule
 import time
 import webbrowser
 
-print("---AGU Zoom Meeting Automation Script---")
+print("---Zoom Meeting Automation Script---")
 print("Wait until your lecturer starts the zoom session...")
 
 
